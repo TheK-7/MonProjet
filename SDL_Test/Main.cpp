@@ -27,7 +27,7 @@ int main(int argv, char** argc) {
 	SDL_DestroyRenderer(renderer);
 	SDL_Quit();
 
-	cout << "Hello World!\n";
+	cout << "Program ended successfully!\n";
 	system("pause");
 	return 0;
 }
