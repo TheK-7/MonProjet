@@ -1,0 +1,6 @@
+.vs
+Debug
+SDL_Test/Debug
+SDL_Test/SDL_Test.vcxproj
+SDL_Test/SDL_Test.vcxproj.filters
+SDL_Test/SDL2.dll
